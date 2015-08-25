@@ -11,7 +11,7 @@
 //StudentDAO dao = new StudentDAODBlmpl();
 StudentDAO dao = new StudentDAODBlmpl();
 ArrayList<Student> list = dao.getAllStudents();
-
+//list good
 %>
 
 <table border="1">
